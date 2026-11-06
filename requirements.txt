@@ -1,0 +1,17 @@
+google-genai
+PyQt6
+sounddevice
+numpy
+psutil
+pyautogui
+pyperclip
+pygetwindow
+uiautomation
+yt-dlp
+faster-whisper
+Pillow
+keyboard
+pycaw
+comtypes
+screen-brightness-control
+pypdf
